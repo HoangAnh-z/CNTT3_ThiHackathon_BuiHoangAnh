@@ -1,6 +1,0 @@
-===TONG HOP LOG===
-2026-01-28 08:03:33 [WARNING] Thoi gian phan hoi cham
-2026-01-28 08:11:33 [WARNING] Mau sofa don sap het
-2026-01-28 08:15:33 [WARNING] Mau sofa don sap het
-2026-01-28 08:35:33 [WARNING] Mau sofa don sap het
-       7
